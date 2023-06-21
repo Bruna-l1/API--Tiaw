@@ -2,31 +2,47 @@
   "videoswpp" : [
       {
           "id": 1,
-          "titulo": "COMO USAR O WHATSAPP NO COMPUTADOR",
+          "titulo": "Como usar o whatsapp no computador",
           "link": "https://www.youtube.com/watch?v=uSsK_u_EPjU"
       },
       {
           "id": 2,
-          "titulo": "AULA DE WHATSAPP BÁSICO",
+          "titulo": "Aula de whatsapp básico",
           "link": "https://www.youtube.com/embed/dR5PNZhaLzU"
       },
       {
           "id": 3,
-          "titulo": "COMO USAR O STATUS DO WHATSAPP",
+          "titulo": "Como usar o status do whatsapp",
           "link": "https://www.youtube.com/watch?v=lQB-NRn5X4Q"
       }
   ],
+
+    "videosinsta" : [
+      {
+          "id": 1,
+          "titulo": "Instagram para iniciantes: Como usar passo a passo",
+          "link": "https://www.youtube.com/embed/PQULFL8biAs"
+      },
+      {
+          "id": 2,
+          "titulo": "Como fazer reels no instagram e editar",
+          "link": "https://www.youtube.com/embed/QeF6_pOKQbE"
+      },
+      {
+          "id": 3,
+          "titulo": "Como usar o instagram corretamente",
+          "link": "https://www.youtube.com/embed/wxKLLmCX_Bw"
+      }
+  ],
+
   "duvidas" : [
     {
       "id" : 1,
       "pergunta" : " como usar o WHATSAPP ?"
-
     },
     {
       "id": 2,
       "pergunta":" Como fazer uma conversa no WhatsApp?"
     }
-    
-    
   ]
 }
