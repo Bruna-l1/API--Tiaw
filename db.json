@@ -1,0 +1,32 @@
+{
+  "videoswpp" : [
+      {
+          "id": 1,
+          "titulo": "COMO USAR O WHATSAPP NO COMPUTADOR",
+          "link": "https://www.youtube.com/watch?v=uSsK_u_EPjU"
+      },
+      {
+          "id": 2,
+          "titulo": "AULA DE WHATSAPP BÁSICO",
+          "link": "https://www.youtube.com/embed/dR5PNZhaLzU"
+      },
+      {
+          "id": 3,
+          "titulo": "COMO USAR O STATUS DO WHATSAPP",
+          "link": "https://www.youtube.com/watch?v=lQB-NRn5X4Q"
+      }
+  ],
+  "duvidas" : [
+    {
+      "id" : 1,
+      "pergunta" : " como usar o WHATSAPP ?"
+
+    },
+    {
+      "id": 2,
+      "pergunta":" Como fazer uma conversa no WhatsApp?"
+    }
+    
+    
+  ]
+}
