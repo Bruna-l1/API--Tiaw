@@ -3,22 +3,26 @@
     {
       "id": 1,
       "titulo": "Como usar o whatsapp no computador",
-      "link": "https://www.youtube.com/watch?v=uSsK_u_EPjU"
+      "link": "https://www.youtube.com/watch?v=uSsK_u_EPjU",  
+      "idvideo": "uSsK_u_EPjU"
     },
     {
       "id": 2,
       "titulo": "Aula de whatsapp básico",
-      "link": "https://www.youtube.com/embed/dR5PNZhaLzU"
+      "link": "https://www.youtube.com/watch?v=dR5PNZhaLzU",
+      "idvideo": "dR5PNZhaLzU"
     },
     {
       "id": 3,
       "titulo": "Como usar o status do whatsapp",
-      "link": "https://www.youtube.com/watch?v=lQB-NRn5X4Q"
+      "link": "https://www.youtube.com/watch?v=lQB-NRn5X4Q",
+      "idvideo": "lQB-NRn5X4Q"
     },
     {
       "id": 4,
       "titulo": "Como editar mensagem no whatsapp",
-      "link": "https://www.youtube.com/watch?v=tshEBS657r8"
+      "link": "https://www.youtube.com/watch?v=tshEBS657r8",
+      "idvideo": "tshEBS657r8"
     }
   ],
 
@@ -26,22 +30,26 @@
     {
       "id": 1,
       "titulo": "Instagram para iniciantes: Como usar passo a passo",
-      "link": "https://www.youtube.com/embed/PQULFL8biAs"
+      "link": "https://www.youtube.com/watch?v=PQULFL8biAs",
+      "idvideo": "PQULFL8biAs"
     },
     {
       "id": 2,
       "titulo": "Como fazer reels no instagram e editar",
-      "link": "https://www.youtube.com/embed/QeF6_pOKQbE"
+      "link": "https://www.youtube.com/watch?v=QeF6_pOKQbE",
+      "idvideo": "QeF6_pOKQbE"
     },
     {
       "id": 3,
       "titulo": "Como usar o instagram corretamente",
-      "link": "https://www.youtube.com/embed/wxKLLmCX_Bw"
+      "link": "https://www.youtube.com/watch?v=wxKLLmCX_Bw",
+      "idvideo": "wxKLLmCX_Bw"
     },
     {
       "id": 4,
       "titulo": "Tutorial de como fazer stories no instagram",
-      "link": "https://www.youtube.com/watch?v=2yw9b-fkRCI"
+      "link": "https://www.youtube.com/watch?v=2yw9b-fkRCI",
+      "idvideo": "2yw9b-fkRCI"
     }
   ],
 
@@ -49,22 +57,26 @@
     {
       "id": 1,
       "titulo": "Como usar as câmeras do celular",
-      "link": "https://www.youtube.com/embed/t5bQp6IFbH0"
+      "link": "https://www.youtube.com/watch?v=t5bQp6IFbH0",
+      "idvideo": "t5bQp6IFbH0"
     },
     {
       "id": 2,
       "titulo": "Como desativar o corretor ortográfico automático do celular",
-      "link": "https://www.youtube.com/embed/Z291Epi4dbM"
+      "link": "https://www.youtube.com/watch?v=Z291Epi4dbM",
+      "idvideo": "Z291Epi4dbM"
     },
     {
       "id": 3,
       "titulo": "Como baixar aplicativos no celular",
-      "link": "https://www.youtube.com/embed/4SxHf5Ctmag"
+      "link": "https://www.youtube.com/watch?v=4SxHf5Ctmag",
+      "idvideo": "4SxHf5Ctmag"
     },
     {
       "id": 4,
       "titulo": "Como usar o despertador do celular",
-      "link": "https://www.youtube.com/watch?v=Ek6y-wUUavs"
+      "link": "https://www.youtube.com/watch?v=Ek6y-wUUavs",
+      "idvideo": "Ek6y-wUUavs"
     }
   ],
 
