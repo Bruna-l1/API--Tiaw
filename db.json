@@ -1,5 +1,5 @@
 {  
-  "videoswpp": [
+  "paginadevideos": [
     {
       "id": 1,
       "titulo": "Como usar o whatsapp no computador",
@@ -23,63 +23,57 @@
       "titulo": "Como editar mensagem no whatsapp",
       "link": "https://www.youtube.com/embed/tshEBS657r8",
       "idvideo": "tshEBS657r8"
-    }
-  ],
-
-  "videosinsta": [
-    {
-      "id": 1,
+    },
+        {
+      "id": 5,
       "titulo": "Instagram para iniciantes: Como usar passo a passo",
       "link": "https://www.youtube.com/embed/PQULFL8biAs",
       "idvideo": "PQULFL8biAs"
     },
     {
-      "id": 2,
+      "id": 6,
       "titulo": "Como fazer reels no instagram e editar",
       "link": "https://www.youtube.com/embed/QeF6_pOKQbE",
       "idvideo": "QeF6_pOKQbE"
     },
     {
-      "id": 3,
+      "id": 7,
       "titulo": "Como usar o instagram corretamente",
       "link": "https://www.youtube.com/embed/wxKLLmCX_Bw",
       "idvideo": "wxKLLmCX_Bw"
     },
     {
-      "id": 4,
+      "id": 8,
       "titulo": "Tutorial de como fazer stories no instagram",
       "link": "https://www.youtube.com/embed/2yw9b-fkRCI",
       "idvideo": "2yw9b-fkRCI"
-    }
-  ],
-
-  "videoscelular": [
-    {
-      "id": 1,
+    },
+        {
+      "id": 9,
       "titulo": "Como usar as câmeras do celular",
       "link": "https://www.youtube.com/embed/t5bQp6IFbH0",
       "idvideo": "t5bQp6IFbH0"
     },
     {
-      "id": 2,
+      "id": 10,
       "titulo": "Como desativar o corretor ortográfico automático do celular",
       "link": "https://www.youtube.com/embed/Z291Epi4dbM",
       "idvideo": "Z291Epi4dbM"
     },
     {
-      "id": 3,
+      "id": 11,
       "titulo": "Como baixar aplicativos no celular",
       "link": "https://www.youtube.com/embed/4SxHf5Ctmag",
       "idvideo": "4SxHf5Ctmag"
     },
     {
-      "id": 4,
+      "id": 12,
       "titulo": "Como usar o despertador do celular",
       "link": "https://www.youtube.com/embed/Ek6y-wUUavs",
       "idvideo": "Ek6y-wUUavs"
     }
   ],
-
+  
   "duvidas": [
     {
       "id": 1,
